@@ -1,0 +1,19 @@
+﻿body {
+    color:navy;
+    background-color: aqua;
+    
+}
+table{
+    margin:auto;
+    margin-bottom:15px;
+}
+h1{
+    margin: auto;
+    text-align: center;
+    margin-bottom: 15px;
+
+}
+form{
+    margin:auto;
+    text-align:center;
+}
